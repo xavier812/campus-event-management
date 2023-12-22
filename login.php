@@ -89,8 +89,8 @@
 
 
 <body>
-    <img class="bg" src="./assets/bg.jpg" alt="FCRIT">
-    <img class="logo" src="./assets/logo.png" alt="FCRIT">
+    <img class="bg" src="bg.jpg" alt="FCRIT">
+    <img class="logo" src="logo.png" alt="FCRIT">
     <form action="action.php" method="post">
         <h1>LOGIN</h1>
 
